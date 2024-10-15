@@ -21,7 +21,7 @@ O código cria uma classe `FrenchDeck` que representa um baralho tradicional com
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd frenchdeck
+   cd pythonic-card-deck-example
    ```
 3. Execução:
    ```bash
